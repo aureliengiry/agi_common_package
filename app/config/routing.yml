@@ -1,3 +1,3 @@
-app:
-    resource: '@AppBundle/Controller/'
+agi_common:
+    resource: '@AgiCommonBundle/Controller/'
     type: annotation
